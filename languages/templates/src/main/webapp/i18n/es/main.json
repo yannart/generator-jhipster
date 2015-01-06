@@ -3,7 +3,7 @@
         "title": "¡Bienvenido, Java Hipster!",
         "subtitle": "Esta es su página de inicio",
         "logged": {
-            "message": "Esta conectado como \"{{username}}\"."
+            "message": "Está conectado como \"{{username}}\"."
         },
         "question": "Si tiene preguntas sobre JHipster:",
         "link": {
@@ -12,7 +12,7 @@
             "bugtracker": "JHipster seguimiento de errores",
             "contact": "contacto @java_hipster en Twitter"
         },
-        "like": "Si le gusta JHipster, danos una estrella en",
+        "like": "Si le gusta JHipster, denos una estrella en",
         "github": "Github"
     }
 }
